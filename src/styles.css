@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(0, 153, 153);
+  background-size: auto;
+}
+
+.main-page-image {
+  max-width: 400px;
+}
+
+.adventureInfo {
+  text-align: center;
+  color: rgb(255, 174, 0);
+}
+
+.main-text {
+  color: white;
+}
+
+.weapons {
+  max-width: 400px;
+}
+
+.sword {
+  max-width: 200px;
+}
+.bow {
+  max-width: 200px;
+}
+.spear {
+  max-width: 200px;
+}
+.magicstaff {
+  max-width: 200px;
+}
+.daggers {
+  max-width: 200px;
+}
+.hammer {
+  max-width: 200px;
+}
